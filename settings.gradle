@@ -1,0 +1,6 @@
+rootProject.name = 'masskoding-operators-and-conditions'
+include 'arithmetic-operators'
+include 'compare-operators'
+include 'logic-operators'
+include 'assignment-operators'
+
